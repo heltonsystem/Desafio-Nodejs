@@ -11,7 +11,7 @@ app.use(cors());
 const repositories = [];
 
 app.get("/repositories", (request, response) => {
-  // TODO
+  // TODO TESTE
 });
 
 app.post("/repositories", (request, response) => {
